@@ -1,0 +1,11 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit specific
+.streamlit/
+
+# Environment variables and secrets
+.env
